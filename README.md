@@ -24,7 +24,7 @@ It focuses on extracting insights from card frequency data and generating visual
 - **Python**
 - **SQL**
 - **Pandas / NumPy**
-- **Matplotlib** *(update this if you used something else)*
+- **Matplotlib** 
 
 ## Project Structure
 - `Main.py` — main entry point (runs the analysis workflow)
