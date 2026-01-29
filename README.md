@@ -10,17 +10,6 @@ This repository focuses on backend engineering fundamentals: clear project struc
 
 ---
 
-### What This Project Does (Current State)
-At its current stage, the project provides:
-
-- A structured Python codebase prepared for backend development
-- A FastAPI application with a health check endpoint
-- Modular analysis and data-processing logic ready to be exposed via APIs
-- Clear separation between application code, scripts, data, SQL, and tests
-
-This establishes the foundation for a production-style backend service.
-
----
 ## Current Capabilities
 
 At its current stage, the project provides:
