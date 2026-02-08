@@ -2,7 +2,7 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fba020a0-b20a-47c8-9c07-d0d15c6f904f" />
 
 
-## Overview
+## Overview 
 MTG Archetype Trends API is a Python-based backend service for tracking **archetype-level metagame trends** in *Magic: The Gathering*.
 
 Rather than presenting static meta snapshots, the system focuses on **directional change**—identifying which cards are being adopted or cut within specific archetypes over time. The API is designed to support downstream tools, automation, and decision-making workflows.
