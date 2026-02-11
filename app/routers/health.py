@@ -4,7 +4,7 @@ router = APIRouter()
 
 @router.get("/health")
 def health_check():
-    return {"status": "ok"}
+    return {"status": "ok", "version": "v1"}
 
 #get means http get , whiich is the standard web method for requesting data !
 #so when y
