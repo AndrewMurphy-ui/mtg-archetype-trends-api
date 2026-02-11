@@ -14,9 +14,7 @@ This project emphasizes backend engineering fundamentals: clear system boundarie
 ## Current Capabilities
 At its current stage, the project provides:
 - A structured Python backend codebase
-- A FastAPI application with a health check endpoint
-- Modular ingestion and analysis logic prepared for API exposure
-- Clear separation between application code, scripts, data, SQL, and tests
+- A FastAPI ap
 
 This establishes a production-oriented foundation rather than a one-off analysis script.
 
