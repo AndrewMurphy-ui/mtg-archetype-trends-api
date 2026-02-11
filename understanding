@@ -1,0 +1,28 @@
+
+
+#understanding health.py
+
+from fastapi import APIRouter
+
+
+router = APIRouter()
+
+@router.get("/health")
+def health_check():
+    return {"status": "ok"}
+
+
+
+
+
+@router.get("/health")
+That line registers the function as a handler for HTTP requests.
+So FastAPI learns:
+“When a GET request comes to /health, call health_check.”
+health_check exists to answer one question:
+“Is the application running and able to respond?”
+
+#understanding main.py
+
+
+ FastAPI() creates the whole application object
