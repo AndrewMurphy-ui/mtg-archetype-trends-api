@@ -11,7 +11,11 @@ This project emphasizes backend engineering fundamentals: clear system boundarie
 
 ---
 
-## 
+## Current Capabilities
+At this stage, the project delivers a production-ready foundation rather than a disposable prototype. It includes a well-structured Python backend built with long-term scalability in mind, not a one-file experiment.
+The FastAPI application is fully initialized and operational, including a dedicated health check endpoint to support monitoring and deployment workflows. Core ingestion and analytical components are implemented in a modular way, allowing them to be cleanly exposed through API routes as the system evolves.
+The codebase enforces clear architectural boundaries between application logic, standalone scripts, raw data, SQL assets, and test suites. This separation improves maintainability, testability, and future extensibility.
+In short, this is infrastructure designed for iteration, deployment, and growth — not a one-off data analysis script that collapses under real-world pressure.
 
 ---
 
