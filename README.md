@@ -19,7 +19,7 @@ In short, this is infrastructure designed for iteration, deployment, and growth 
 
 ---
 
-## Planned Capabilities (In
+## Planned Capabilities (In Progress)
 The intended backend workflow is:
 1. MTG deck or frequency data is ingested
 2. Data is validated and normalized
